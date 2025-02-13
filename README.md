@@ -7,7 +7,7 @@
 - 🎓 **B.Tech in Material Science and Engineering** @ IIT Kanpur  
 - 💻 **Former Data Analyst Intern** @ **Cryptowl**  
 - 🚀 **Former Software Development Intern** @ **ProSpace**  
-- 🏆 **Specialist on Codeforces** (Highest rating: 1520) | **Leetcode Max Rating: 2077 (Top 3%)**  
+- 🏆 **Specialist on Codeforces** (Highest rating: 1646) | **Leetcode Max Rating: 2077 (Top 3%)**  
 - 🎮 Passionate about **Software Development | Cyber Security | AI & ML Research**  
 
 ---
